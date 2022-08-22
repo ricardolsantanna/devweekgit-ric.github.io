@@ -1,2 +1,2 @@
-# devweekgit-ric.github.io
+# ricardolsantanna.github.io
 Curriculo do Jornada Dev
