@@ -42,6 +42,8 @@ body {
 
 .profile .profile-image {
     width: 100%;
+    border-radius: 50%;
+    border: 8px solid #1B2631;
 }
 
 .name {
@@ -251,8 +253,8 @@ body {
         font-size: 18px;
     }
 
-    .contact-info ul li,
-    .references ul li {
+    .contact-info ul li i,
+    .references ul li i {
         font-size: 12px;
     }
 
